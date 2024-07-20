@@ -1,0 +1,20 @@
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\kurs8\x64\Debug\kurs8.MyForm1.resources
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\курсовой проект\kurs8\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\курсовой проект\курс9\kurs8 — копия\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\курсовой проект\курс9\kurs8 — копия\x64\Debug\kurs8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\курсовой проект\курс9\kurs8 — копия\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\курсовой проект\курс9\kurs8 — копия\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\курсовой проект\курс9\kurs8 — копия\x64\Debug\kurs8.exe
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\курс9\kurs8 — копия\x64\Debug\kurs8.vcxproj.AssemblyReference.cache
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\курс9\kurs8 — копия\x64\Debug\kurs8.MyForm.resources
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\курс9\kurs8 — копия\x64\Debug\kurs8.vcxproj.GenerateResource.cache
+C:\Users\strel\Desktop\портфолио\КУРСОВАЯ\курс9\kurs8 — копия\x64\Debug\kurs8.exe
